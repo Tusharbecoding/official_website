@@ -88,7 +88,7 @@ const Rocket = styled.div`
 `;
 
 const Human = styled.div`
-  width: 50%;
+  width: 90%;
   position: absolute;
   right: 0;
   bottom: 100%;
